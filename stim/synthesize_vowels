@@ -1,0 +1,8 @@
+form synthesize vowels
+endform
+
+New trajectory: 280, 850, 350, 280, 0.1
+selectObject: "Sound untitled"
+Rename: "f1_280"
+selectObject: "Sound f1_280"
+Save as WAV file: "/Users/letitiaho/src/cabr/stim/f1_280.wav"
